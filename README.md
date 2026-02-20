@@ -9,8 +9,8 @@
 - `styles.css`: 공통 스타일
 
 ## 배포 전 필수 수정
-1. `nusence01@gmail.com`을 실제 운영 이메일로 변경
-2. `index.html`의 JSON-LD `url` 값을 실제 사이트 URL로 변경
+1. 운영 이메일(`nusence01@gmail.com`)이 맞는지 확인
+2. JSON-LD `url` 값이 실제 사이트 URL과 일치하는지 확인
 3. 사업자 정보 오탈자 점검
 
 ## GitHub Pages로 배포
